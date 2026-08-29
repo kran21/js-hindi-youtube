@@ -1,0 +1,21 @@
+let score=false;
+
+//console.log(typeof score); //number
+//console.log(typeof (score)); //number
+
+let valueNumber=Number(score);
+//console.log(typeof valueNumber); //number
+//console.log(valueNumber);
+
+//"33"=>33
+//"33abc"=>NaN
+//true=>1
+//false=>0
+
+let isLoggedIn="Karan";
+
+let booleanIsLoggedIn=Boolean(isLoggedIn);
+console.log(booleanIsLoggedIn); 
+
+//""=>false "Karan"=>true
+//0=>false 1=>true

@@ -1,0 +1,10 @@
+//primitive
+
+//types:string, number, boolean, null, undefined, symbol, BigInt
+
+//Referencce (non-primitive)
+
+
+// types: object, array, function
+
+//primitive => stack memory    non-primitive => heap memory
