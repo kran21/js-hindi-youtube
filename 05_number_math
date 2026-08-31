@@ -6,6 +6,6 @@ console.log(number);
 
 console.log(number.toString().length); 
 console.log(number.toFixed(1));
-
+//BUG-123
 const otherNumber=123.8966;
 console.log(otherNumber.toPrecision(3));
