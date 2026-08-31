@@ -1,6 +1,6 @@
 const score=100;
 console.log( score); 
-
+//BUG-130
 const number=new Number(100);
 console.log(number);
 
